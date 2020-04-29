@@ -1,5 +1,6 @@
 # Tuwowo
 <<<<<<< HEAD
+<<<<<<< HEAD
 兔喔喔(Android App)
 一个综合各类娱乐功能的Android Application，
 功能：
@@ -19,3 +20,6 @@
 =======
 Tuwowo Android App
 >>>>>>> fceb287f5a7da5a63f495685d964b4da36be4acf
+=======
+Tuwowo Android App
+>>>>>>> 681473e417ba078055fcb0ce6b114c9cd119bc6d
